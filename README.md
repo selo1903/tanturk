@@ -1,0 +1,4 @@
+tanturk
+=======
+
+tüm hakları hakkınındır...
